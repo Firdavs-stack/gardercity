@@ -1,7 +1,7 @@
 # gardercity
 Garden City 
 
-#Используемые технологии
+# Используемые технологии
   HTML/CSS
   Jquery
   Препроцессоры SASS/SCSS
